@@ -1,2 +1,3 @@
-# Project-ExploratoryDataAnalysis-and-autompgPrediction
-This repository is about a Data Exploratory Analysis and predict auto-mpg using Regression Analysis
+# Auto-MPG-Exploratory-Data-Analysis-and-Prediction
+
+This repository focuses on conducting Exploratory Data Analysis and predicting auto-mpg using Regression Analysis.
